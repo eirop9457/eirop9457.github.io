@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="N08E080_200821_200710_Ver_3_0_Area1" id="N08E080_200821_200710_Ver_3_0_Area1">
+	<SimpleField name="Country" type="string"></SimpleField>
+	<SimpleField name="Continent" type="string"></SimpleField>
+	<SimpleField name="ChangeArea" type="float"></SimpleField>
+	<SimpleField name="Accuracy" type="int"></SimpleField>
+	<SimpleField name="Polygon_id" type="string"></SimpleField>
+	<SimpleField name="State" type="string"></SimpleField>
+	<SimpleField name="Town" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+	<SimpleField name="Algorithm" type="string"></SimpleField>
+	<SimpleField name="AlgoVer" type="string"></SimpleField>
+	<SimpleField name="Threshold" type="string"></SimpleField>
+</Schema>
+<Folder><name>N08E080_200821_200710_Ver_3_0_Area1</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N08E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.00</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N08E080_200821_200710_0000000A</SimpleData>
+		<SimpleData name="State">Kurunegala</SimpleData>
+		<SimpleData name="Town">Galgamuwa</SimpleData>
+		<SimpleData name="Latitude">N7°58′15″</SimpleData>
+		<SimpleData name="Longitude">E80°11′0″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.1831111111111,7.97155555555556 80.1835555555556,7.97155555555556 80.1835555555556,7.97111111111111 80.184,7.97111111111111 80.184,7.97066666666667 80.1844444444444,7.97066666666667 80.1844444444444,7.97022222222222 80.184,7.97022222222222 80.184,7.96977777777778 80.1831111111111,7.96977777777778 80.1831111111111,7.97155555555556</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N08E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">4.25</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N08E080_200821_200710_0000001A</SimpleData>
+		<SimpleData name="State">Kurunegala</SimpleData>
+		<SimpleData name="Town">Polpithigama</SimpleData>
+		<SimpleData name="Latitude">N7°47′19″</SimpleData>
+		<SimpleData name="Longitude">E80°28′47″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.4791111111111,7.78933333333333 80.48,7.78933333333333 80.48,7.78888888888889 80.4808888888889,7.78888888888889 80.4808888888889,7.788 80.4804444444444,7.788 80.4804444444444,7.78755555555556 80.48,7.78755555555556 80.48,7.788 80.4795555555555,7.788 80.4795555555555,7.78755555555556 80.4782222222222,7.78755555555556 80.4782222222222,7.78844444444444 80.4786666666667,7.78844444444444 80.4786666666667,7.78888888888889 80.4791111111111,7.78888888888889 80.4791111111111,7.78933333333333</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N08E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">3.00</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N08E080_200821_200710_0000002A</SimpleData>
+		<SimpleData name="State">Kurunegala</SimpleData>
+		<SimpleData name="Town">Wariyapola</SimpleData>
+		<SimpleData name="Latitude">N7°37′9″</SimpleData>
+		<SimpleData name="Longitude">E80°20′36″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.3426666666667,7.62044444444444 80.3431111111111,7.62044444444444 80.3431111111111,7.62 80.3435555555556,7.62 80.3435555555556,7.61955555555556 80.344,7.61955555555556 80.344,7.61911111111111 80.3444444444444,7.61911111111111 80.3444444444444,7.61822222222222 80.344,7.61822222222222 80.3435555555556,7.61822222222222 80.3435555555556,7.61866666666667 80.3431111111111,7.61866666666667 80.3431111111111,7.61911111111111 80.3426666666667,7.61911111111111 80.3426666666667,7.61955555555556 80.3422222222222,7.61955555555556 80.3422222222222,7.62 80.3426666666667,7.62 80.3426666666667,7.62044444444444</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N08E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">5.25</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N08E080_200821_200710_0000003A</SimpleData>
+		<SimpleData name="State">Kegalle</SimpleData>
+		<SimpleData name="Town">Warakapola</SimpleData>
+		<SimpleData name="Latitude">N7°15′23″</SimpleData>
+		<SimpleData name="Longitude">E80°12′34″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.2102222222222,7.25822222222222 80.2106666666667,7.25822222222222 80.2106666666667,7.25688888888889 80.2102222222222,7.25688888888889 80.2102222222222,7.25466666666667 80.2097777777778,7.25466666666667 80.2097777777778,7.25511111111111 80.2093333333333,7.25511111111111 80.2093333333333,7.25466666666667 80.2088888888889,7.25466666666667 80.2088888888889,7.25555555555556 80.2093333333333,7.25555555555556 80.2093333333333,7.256 80.2088888888889,7.256 80.2088888888889,7.25733333333333 80.2093333333333,7.25733333333333 80.2093333333333,7.25777777777778 80.2097777777778,7.25777777777778 80.2102222222222,7.25777777777778 80.2102222222222,7.25822222222222</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N08E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.00</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N08E080_200821_200710_0000004A</SimpleData>
+		<SimpleData name="State">Kegalle</SimpleData>
+		<SimpleData name="Town">Aranayaka</SimpleData>
+		<SimpleData name="Latitude">N7°10′3″</SimpleData>
+		<SimpleData name="Longitude">E80°25′7″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.4191111111111,7.16844444444444 80.4195555555556,7.16844444444444 80.4195555555556,7.16711111111111 80.4191111111111,7.16711111111111 80.4191111111111,7.16666666666667 80.4186666666667,7.16666666666667 80.4186666666667,7.16711111111111 80.4182222222222,7.16711111111111 80.4182222222222,7.168 80.4186666666667,7.168 80.4191111111111,7.168 80.4191111111111,7.16844444444444</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N08E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.00</SimpleData>
+		<SimpleData name="Accuracy">2</SimpleData>
+		<SimpleData name="Polygon_id">N08E080_200821_200710_0000005A</SimpleData>
+		<SimpleData name="State">Kegalle</SimpleData>
+		<SimpleData name="Town">Galigamuwa</SimpleData>
+		<SimpleData name="Latitude">N7°6′37″</SimpleData>
+		<SimpleData name="Longitude">E80°16′54″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.2808888888889,7.11111111111111 80.2822222222222,7.11111111111111 80.2822222222222,7.11022222222222 80.2826666666667,7.11022222222222 80.2826666666667,7.10977777777778 80.2813333333333,7.10977777777778 80.2813333333333,7.11066666666667 80.2808888888889,7.11066666666667 80.2808888888889,7.11111111111111</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

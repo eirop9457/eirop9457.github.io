@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="N09E080_200821_200710_Ver_3_0_Area1" id="N09E080_200821_200710_Ver_3_0_Area1">
+	<SimpleField name="Country" type="string"></SimpleField>
+	<SimpleField name="Continent" type="string"></SimpleField>
+	<SimpleField name="ChangeArea" type="float"></SimpleField>
+	<SimpleField name="Accuracy" type="int"></SimpleField>
+	<SimpleField name="Polygon_id" type="string"></SimpleField>
+	<SimpleField name="State" type="string"></SimpleField>
+	<SimpleField name="Town" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+	<SimpleField name="Algorithm" type="string"></SimpleField>
+	<SimpleField name="AlgoVer" type="string"></SimpleField>
+	<SimpleField name="Threshold" type="string"></SimpleField>
+</Schema>
+<Folder><name>N09E080_200821_200710_Ver_3_0_Area1</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N09E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.75</SimpleData>
+		<SimpleData name="Accuracy">2</SimpleData>
+		<SimpleData name="Polygon_id">N09E080_200821_200710_0000000A</SimpleData>
+		<SimpleData name="State">Vavuniya</SimpleData>
+		<SimpleData name="Town">Vavuniya_North</SimpleData>
+		<SimpleData name="Latitude">N8°59′35″</SimpleData>
+		<SimpleData name="Longitude">E80°31′30″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.5253333333333,8.99377777777778 80.5257777777778,8.99377777777778 80.5257777777778,8.99288888888889 80.5262222222222,8.99288888888889 80.5262222222222,8.992 80.5257777777778,8.992 80.5248888888889,8.992 80.5248888888889,8.99244444444444 80.5244444444444,8.99244444444444 80.5244444444444,8.99333333333333 80.5248888888889,8.99333333333333 80.5253333333333,8.99333333333333 80.5253333333333,8.99377777777778</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N09E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">4.25</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N09E080_200821_200710_0000001A</SimpleData>
+		<SimpleData name="State">Vavuniya</SimpleData>
+		<SimpleData name="Town">Vavuniya</SimpleData>
+		<SimpleData name="Latitude">N8°56′32″</SimpleData>
+		<SimpleData name="Longitude">E80°30′14″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.5031111111111,8.94311111111111 80.5044444444444,8.94311111111111 80.5044444444444,8.94266666666667 80.5048888888889,8.94266666666667 80.5048888888889,8.94222222222222 80.5053333333333,8.94222222222222 80.5053333333333,8.94266666666667 80.5057777777778,8.94266666666667 80.5057777777778,8.94177777777778 80.5053333333333,8.94177777777778 80.5048888888889,8.94177777777778 80.5048888888889,8.94133333333333 80.5035555555556,8.94133333333333 80.5035555555556,8.94177777777778 80.5031111111111,8.94177777777778 80.5031111111111,8.94311111111111</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N09E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.75</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N09E080_200821_200710_0000002A</SimpleData>
+		<SimpleData name="State">Vavuniya</SimpleData>
+		<SimpleData name="Town">Vavuniya</SimpleData>
+		<SimpleData name="Latitude">N8°55′31″</SimpleData>
+		<SimpleData name="Longitude">E80°23′56″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.3982222222222,8.92622222222222 80.3995555555556,8.92622222222222 80.3995555555556,8.92577777777778 80.4,8.92577777777778 80.4,8.92533333333333 80.3995555555556,8.92533333333333 80.3995555555556,8.92444444444445 80.3986666666667,8.92444444444445 80.3986666666667,8.92533333333333 80.3982222222222,8.92533333333333 80.3982222222222,8.92622222222222</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N09E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.75</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N09E080_200821_200710_0000003A</SimpleData>
+		<SimpleData name="State">Vavuniya</SimpleData>
+		<SimpleData name="Town">Vavuniya</SimpleData>
+		<SimpleData name="Latitude">N8°54′39″</SimpleData>
+		<SimpleData name="Longitude">E80°34′26″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.5737777777778,8.91155555555556 80.5742222222222,8.91155555555556 80.5742222222222,8.91111111111111 80.5746666666667,8.91111111111111 80.5746666666667,8.91022222222222 80.5742222222222,8.91022222222222 80.5742222222222,8.90977777777778 80.5728888888889,8.90977777777778 80.5728888888889,8.91066666666667 80.5733333333333,8.91066666666667 80.5733333333333,8.91111111111111 80.5737777777778,8.91111111111111 80.5737777777778,8.91155555555556</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N09E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">3.00</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N09E080_200821_200710_0000004A</SimpleData>
+		<SimpleData name="State">Vavuniya</SimpleData>
+		<SimpleData name="Town">Vavuniya</SimpleData>
+		<SimpleData name="Latitude">N8°54′19″</SimpleData>
+		<SimpleData name="Longitude">E80°34′11″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.5688888888889,8.90666666666667 80.5693333333333,8.90666666666667 80.5693333333333,8.90622222222222 80.5702222222222,8.90622222222222 80.5702222222222,8.90577777777778 80.5706666666667,8.90577777777778 80.5706666666667,8.90533333333333 80.5702222222222,8.90533333333333 80.5702222222222,8.90444444444444 80.5693333333333,8.90444444444444 80.5693333333333,8.90488888888889 80.5688888888889,8.90488888888889 80.5688888888889,8.90533333333333 80.5693333333333,8.90533333333333 80.5693333333333,8.90577777777778 80.5688888888889,8.90577777777778 80.5688888888889,8.90666666666667</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N09E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">4.25</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N09E080_200821_200710_0000005A</SimpleData>
+		<SimpleData name="State">Vavuniya</SimpleData>
+		<SimpleData name="Town">Vavuniya</SimpleData>
+		<SimpleData name="Latitude">N8°53′16″</SimpleData>
+		<SimpleData name="Longitude">E80°34′27″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.5733333333333,8.88933333333333 80.5746666666667,8.88933333333333 80.5746666666667,8.88844444444444 80.5751111111111,8.88844444444444 80.5751111111111,8.88711111111111 80.5746666666667,8.88711111111111 80.5746666666667,8.88755555555556 80.5742222222222,8.88755555555556 80.5742222222222,8.88711111111111 80.5737777777778,8.88711111111111 80.5737777777778,8.88755555555556 80.5733333333333,8.88755555555556 80.5733333333333,8.88844444444444 80.5728888888889,8.88844444444444 80.5728888888889,8.88888888888889 80.5733333333333,8.88888888888889 80.5733333333333,8.88933333333333</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N09E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">3.00</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N09E080_200821_200710_0000006A</SimpleData>
+		<SimpleData name="State">Vavuniya</SimpleData>
+		<SimpleData name="Town">Vavuniya</SimpleData>
+		<SimpleData name="Latitude">N8°53′7″</SimpleData>
+		<SimpleData name="Longitude">E80°34′32″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.5755555555556,8.88666666666667 80.5764444444444,8.88666666666667 80.5764444444444,8.88622222222222 80.5768888888889,8.88622222222222 80.5768888888889,8.88577777777778 80.5764444444444,8.88577777777778 80.5764444444444,8.88533333333333 80.576,8.88533333333333 80.576,8.88444444444444 80.5751111111111,8.88444444444444 80.5751111111111,8.88577777777778 80.5755555555556,8.88577777777778 80.5755555555556,8.88666666666667</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N09E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">11.50</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N09E080_200821_200710_0000007A</SimpleData>
+		<SimpleData name="State">Vavuniya</SimpleData>
+		<SimpleData name="Town">Vavuniya</SimpleData>
+		<SimpleData name="Latitude">N8°53′0″</SimpleData>
+		<SimpleData name="Longitude">E80°34′20″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.5715555555556,8.88533333333333 80.572,8.88533333333333 80.572,8.88488888888889 80.5737777777778,8.88488888888889 80.5737777777778,8.88444444444444 80.5746666666667,8.88444444444444 80.5746666666667,8.884 80.5742222222222,8.884 80.5742222222222,8.88266666666667 80.5746666666667,8.88266666666667 80.5746666666667,8.88222222222222 80.5742222222222,8.88222222222222 80.5737777777778,8.88222222222222 80.5737777777778,8.88177777777778 80.5733333333333,8.88177777777778 80.5733333333333,8.88222222222222 80.5728888888889,8.88222222222222 80.5728888888889,8.88266666666667 80.5715555555556,8.88266666666667 80.5715555555556,8.88311111111111 80.5706666666667,8.88311111111111 80.5706666666667,8.884 80.5702222222222,8.884 80.5702222222222,8.88488888888889 80.5711111111111,8.88488888888889 80.5715555555556,8.88488888888889 80.5715555555556,8.88533333333333</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N09E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.75</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N09E080_200821_200710_0000008A</SimpleData>
+		<SimpleData name="State">Vavuniya</SimpleData>
+		<SimpleData name="Town">Vavuniya</SimpleData>
+		<SimpleData name="Latitude">N8°52′36″</SimpleData>
+		<SimpleData name="Longitude">E80°28′31″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.4751111111111,8.87733333333333 80.476,8.87733333333333 80.476,8.87688888888889 80.4764444444444,8.87688888888889 80.4764444444444,8.87644444444445 80.476,8.87644444444445 80.476,8.876 80.4742222222222,8.876 80.4742222222222,8.87688888888889 80.4746666666667,8.87688888888889 80.4751111111111,8.87688888888889 80.4751111111111,8.87733333333333</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N09E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.25</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N09E080_200821_200710_0000009A</SimpleData>
+		<SimpleData name="State">Mannar</SimpleData>
+		<SimpleData name="Town">Madhu</SimpleData>
+		<SimpleData name="Latitude">N8°50′8″</SimpleData>
+		<SimpleData name="Longitude">E80°13′3″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.2173333333333,8.83644444444444 80.2182222222222,8.83644444444444 80.2182222222222,8.83511111111111 80.2177777777778,8.83511111111111 80.2164444444444,8.83511111111111 80.2164444444444,8.83555555555555 80.2168888888889,8.83555555555555 80.2168888888889,8.836 80.2173333333333,8.836 80.2173333333333,8.83644444444444</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N09E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">4.50</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N09E080_200821_200710_0000010A</SimpleData>
+		<SimpleData name="State">Vavuniya</SimpleData>
+		<SimpleData name="Town">Vengalacheddiculam</SimpleData>
+		<SimpleData name="Latitude">N8°45′41″</SimpleData>
+		<SimpleData name="Longitude">E80°12′11″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.2017777777778,8.76311111111111 80.2022222222222,8.76311111111111 80.2022222222222,8.76266666666667 80.2026666666667,8.76266666666667 80.2026666666667,8.76222222222222 80.2035555555556,8.76222222222222 80.2035555555556,8.76177777777778 80.204,8.76177777777778 80.204,8.76133333333333 80.2035555555556,8.76133333333333 80.2035555555556,8.75955555555556 80.2031111111111,8.75955555555556 80.2031111111111,8.76 80.2026666666667,8.76 80.2026666666667,8.76088888888889 80.2022222222222,8.76088888888889 80.2022222222222,8.76222222222222 80.2017777777778,8.76222222222222 80.2017777777778,8.76311111111111</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N09E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.25</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N09E080_200821_200710_0000013A</SimpleData>
+		<SimpleData name="State">Anuradhapura</SimpleData>
+		<SimpleData name="Town">Medawachchiya</SimpleData>
+		<SimpleData name="Latitude">N8°35′14″</SimpleData>
+		<SimpleData name="Longitude">E80°33′56″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.5644444444444,8.588 80.5662222222222,8.588 80.5662222222222,8.58666666666667 80.5657777777778,8.58666666666667 80.5657777777778,8.58711111111111 80.5653333333333,8.58711111111111 80.5653333333333,8.58666666666667 80.5648888888889,8.58666666666667 80.5648888888889,8.58755555555556 80.5644444444444,8.58755555555556 80.5644444444444,8.588</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N09E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">13.50</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N09E080_200821_200710_0000014A</SimpleData>
+		<SimpleData name="State">Polonnaruwa</SimpleData>
+		<SimpleData name="Town">Medirigiriya</SimpleData>
+		<SimpleData name="Latitude">N8°12′51″</SimpleData>
+		<SimpleData name="Longitude">E80°58′53″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.9791111111111,8.216 80.9795555555555,8.216 80.9795555555555,8.21555555555556 80.98,8.21555555555556 80.98,8.21511111111111 80.9804444444444,8.21511111111111 80.9804444444444,8.21555555555556 80.9826666666667,8.21555555555556 80.9826666666667,8.21511111111111 80.9831111111111,8.21511111111111 80.9831111111111,8.21466666666667 80.9835555555556,8.21466666666667 80.9835555555556,8.21333333333333 80.9831111111111,8.21333333333333 80.9831111111111,8.21244444444444 80.9813333333333,8.21244444444444 80.9813333333333,8.21288888888889 80.9804444444444,8.21288888888889 80.9804444444444,8.21377777777778 80.9795555555555,8.21377777777778 80.9795555555555,8.21466666666667 80.9786666666667,8.21466666666667 80.9786666666667,8.21555555555556 80.9791111111111,8.21555555555556 80.9791111111111,8.216</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

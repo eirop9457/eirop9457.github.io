@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="N07E080_200821_200710_Ver_3_0_Area1" id="N07E080_200821_200710_Ver_3_0_Area1">
+	<SimpleField name="Country" type="string"></SimpleField>
+	<SimpleField name="Continent" type="string"></SimpleField>
+	<SimpleField name="ChangeArea" type="float"></SimpleField>
+	<SimpleField name="Accuracy" type="int"></SimpleField>
+	<SimpleField name="Polygon_id" type="string"></SimpleField>
+	<SimpleField name="State" type="string"></SimpleField>
+	<SimpleField name="Town" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+	<SimpleField name="Algorithm" type="string"></SimpleField>
+	<SimpleField name="AlgoVer" type="string"></SimpleField>
+	<SimpleField name="Threshold" type="string"></SimpleField>
+</Schema>
+<Folder><name>N07E080_200821_200710_Ver_3_0_Area1</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N07E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">6.25</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N07E080_200821_200710_0000000A</SimpleData>
+		<SimpleData name="State">Colombo</SimpleData>
+		<SimpleData name="Town">Hanwella</SimpleData>
+		<SimpleData name="Latitude">N6°57′49″</SimpleData>
+		<SimpleData name="Longitude">E80°8′47″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.1453333333333,6.96488888888889 80.1457777777778,6.96488888888889 80.1457777777778,6.96444444444444 80.148,6.96444444444444 80.148,6.964 80.1484444444445,6.964 80.1484444444445,6.96355555555556 80.148,6.96355555555556 80.148,6.96311111111111 80.1475555555556,6.96311111111111 80.1466666666667,6.96311111111111 80.1466666666667,6.96266666666667 80.1457777777778,6.96266666666667 80.1457777777778,6.96311111111111 80.1462222222222,6.96311111111111 80.1462222222222,6.96355555555556 80.1448888888889,6.96355555555556 80.1448888888889,6.96311111111111 80.144,6.96311111111111 80.144,6.96355555555556 80.1444444444444,6.96355555555556 80.1444444444444,6.96444444444444 80.1448888888889,6.96444444444444 80.1448888888889,6.964 80.1453333333333,6.964 80.1453333333333,6.96488888888889</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N07E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.25</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N07E080_200821_200710_0000001A</SimpleData>
+		<SimpleData name="State">Colombo</SimpleData>
+		<SimpleData name="Town">Hanwella</SimpleData>
+		<SimpleData name="Latitude">N6°57′12″</SimpleData>
+		<SimpleData name="Longitude">E80°8′48″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.1471111111111,6.95466666666667 80.1475555555556,6.95466666666667 80.1475555555556,6.95377777777778 80.1471111111111,6.95377777777778 80.1471111111111,6.95333333333333 80.1475555555556,6.95333333333333 80.1475555555556,6.95288888888889 80.1471111111111,6.95288888888889 80.1471111111111,6.95244444444444 80.1466666666667,6.95244444444444 80.1466666666667,6.95333333333333 80.1462222222222,6.95333333333333 80.1462222222222,6.95422222222222 80.1466666666667,6.95422222222222 80.1471111111111,6.95422222222222 80.1471111111111,6.95466666666667</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N07E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">5.00</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N07E080_200821_200710_0000002A</SimpleData>
+		<SimpleData name="State">Colombo</SimpleData>
+		<SimpleData name="Town">Hanwella</SimpleData>
+		<SimpleData name="Latitude">N6°54′24″</SimpleData>
+		<SimpleData name="Longitude">E80°11′52″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.1968888888889,6.908 80.1982222222222,6.908 80.1982222222222,6.90711111111111 80.1986666666667,6.90711111111111 80.1986666666667,6.90622222222222 80.1982222222222,6.90622222222222 80.1982222222222,6.90577777777778 80.1977777777778,6.90577777777778 80.1973333333333,6.90577777777778 80.1973333333333,6.90533333333333 80.1968888888889,6.90533333333333 80.1968888888889,6.90622222222222 80.196,6.90622222222222 80.196,6.90711111111111 80.1968888888889,6.90711111111111 80.1968888888889,6.90666666666667 80.1973333333333,6.90666666666667 80.1973333333333,6.90755555555556 80.1968888888889,6.90755555555556 80.1968888888889,6.908</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N07E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.50</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N07E080_200821_200710_0000003A</SimpleData>
+		<SimpleData name="State">Ratnapura</SimpleData>
+		<SimpleData name="Town">Eheliyagoda</SimpleData>
+		<SimpleData name="Latitude">N6°54′15″</SimpleData>
+		<SimpleData name="Longitude">E80°12′42″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.2106666666667,6.90488888888889 80.2111111111111,6.90488888888889 80.2111111111111,6.904 80.2115555555555,6.904 80.2115555555555,6.90444444444444 80.212,6.90444444444444 80.212,6.90355555555556 80.2124444444444,6.90355555555556 80.2124444444444,6.90311111111111 80.2106666666667,6.90311111111111 80.2106666666667,6.90488888888889</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N07E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.00</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N07E080_200821_200710_0000004A</SimpleData>
+		<SimpleData name="State">Ratnapura</SimpleData>
+		<SimpleData name="Town">Eheliyagoda</SimpleData>
+		<SimpleData name="Latitude">N6°51′28″</SimpleData>
+		<SimpleData name="Longitude">E80°16′51″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.28,6.85822222222222 80.2817777777778,6.85822222222222 80.2817777777778,6.85777777777778 80.2822222222222,6.85777777777778 80.2822222222222,6.85733333333333 80.2804444444444,6.85733333333333 80.2804444444444,6.85777777777778 80.28,6.85777777777778 80.28,6.85822222222222</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N07E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">6.25</SimpleData>
+		<SimpleData name="Accuracy">2</SimpleData>
+		<SimpleData name="Polygon_id">N07E080_200821_200710_0000005A</SimpleData>
+		<SimpleData name="State">Colombo</SimpleData>
+		<SimpleData name="Town">Padukka</SimpleData>
+		<SimpleData name="Latitude">N6°49′25″</SimpleData>
+		<SimpleData name="Longitude">E80°7′44″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.1284444444444,6.82533333333333 80.1302222222222,6.82533333333333 80.1302222222222,6.82444444444444 80.1297777777778,6.82444444444444 80.1293333333333,6.82444444444444 80.1293333333333,6.824 80.1297777777778,6.824 80.1297777777778,6.82355555555556 80.1302222222222,6.82355555555556 80.1302222222222,6.82311111111111 80.1297777777778,6.82311111111111 80.1293333333333,6.82311111111111 80.1293333333333,6.82266666666667 80.1288888888889,6.82266666666667 80.1288888888889,6.82222222222222 80.128,6.82222222222222 80.128,6.82266666666667 80.1275555555556,6.82266666666667 80.1275555555556,6.82444444444444 80.128,6.82444444444444 80.128,6.82355555555556 80.1284444444444,6.82355555555556 80.1284444444444,6.824 80.1288888888889,6.824 80.1288888888889,6.82488888888889 80.1284444444444,6.82488888888889 80.1284444444444,6.82533333333333</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N07E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">3.25</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N07E080_200821_200710_0000006A</SimpleData>
+		<SimpleData name="State">Kalutara</SimpleData>
+		<SimpleData name="Town">Ingiriya</SimpleData>
+		<SimpleData name="Latitude">N6°48′13″</SimpleData>
+		<SimpleData name="Longitude">E80°7′20″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.1213333333333,6.80444444444444 80.1226666666667,6.80444444444444 80.1226666666667,6.804 80.1231111111111,6.804 80.1231111111111,6.80355555555556 80.1226666666667,6.80355555555556 80.1226666666667,6.80311111111111 80.1222222222222,6.80311111111111 80.1222222222222,6.80266666666667 80.1213333333333,6.80266666666667 80.1213333333333,6.80311111111111 80.1208888888889,6.80311111111111 80.1208888888889,6.80355555555556 80.1213333333333,6.80355555555556 80.1213333333333,6.80444444444444</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N07E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">3.25</SimpleData>
+		<SimpleData name="Accuracy">2</SimpleData>
+		<SimpleData name="Polygon_id">N07E080_200821_200710_0000007A</SimpleData>
+		<SimpleData name="State">Kalutara</SimpleData>
+		<SimpleData name="Town">Ingiriya</SimpleData>
+		<SimpleData name="Latitude">N6°45′56″</SimpleData>
+		<SimpleData name="Longitude">E80°9′40″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.1608888888889,6.76666666666667 80.1613333333333,6.76666666666667 80.1613333333333,6.76622222222222 80.1617777777778,6.76622222222222 80.1617777777778,6.76577777777778 80.1622222222222,6.76577777777778 80.1622222222222,6.76533333333333 80.1617777777778,6.76533333333333 80.1617777777778,6.76444444444444 80.1604444444445,6.76444444444444 80.1604444444445,6.76577777777778 80.1608888888889,6.76577777777778 80.1608888888889,6.76666666666667</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N07E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.50</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N07E080_200821_200710_0000008A</SimpleData>
+		<SimpleData name="State">Kalutara</SimpleData>
+		<SimpleData name="Town">Ingiriya</SimpleData>
+		<SimpleData name="Latitude">N6°45′40″</SimpleData>
+		<SimpleData name="Longitude">E80°8′33″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.1422222222222,6.76266666666667 80.1431111111111,6.76266666666667 80.1431111111111,6.76088888888889 80.1426666666667,6.76088888888889 80.1426666666667,6.76044444444444 80.1422222222222,6.76044444444444 80.1422222222222,6.76177777777778 80.1417777777778,6.76177777777778 80.1417777777778,6.76222222222222 80.1422222222222,6.76222222222222 80.1422222222222,6.76266666666667</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N07E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.25</SimpleData>
+		<SimpleData name="Accuracy">1</SimpleData>
+		<SimpleData name="Polygon_id">N07E080_200821_200710_0000009A</SimpleData>
+		<SimpleData name="State">Ratnapura</SimpleData>
+		<SimpleData name="Town">Imbulpe</SimpleData>
+		<SimpleData name="Latitude">N6°41′40″</SimpleData>
+		<SimpleData name="Longitude">E80°47′35″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.7924444444444,6.69511111111111 80.7942222222222,6.69511111111111 80.7942222222222,6.69422222222222 80.7937777777778,6.69422222222222 80.7937777777778,6.69377777777778 80.7933333333333,6.69377777777778 80.7933333333333,6.69422222222222 80.7924444444444,6.69422222222222 80.7924444444444,6.69511111111111</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N07E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.00</SimpleData>
+		<SimpleData name="Accuracy">2</SimpleData>
+		<SimpleData name="Polygon_id">N07E080_200821_200710_0000010A</SimpleData>
+		<SimpleData name="State">Ratnapura</SimpleData>
+		<SimpleData name="Town">Ayagama</SimpleData>
+		<SimpleData name="Latitude">N6°39′45″</SimpleData>
+		<SimpleData name="Longitude">E80°15′6″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.2511111111111,6.66311111111111 80.2524444444444,6.66311111111111 80.2524444444444,6.66222222222222 80.252,6.66222222222222 80.252,6.66177777777778 80.2511111111111,6.66177777777778 80.2511111111111,6.66311111111111</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#N07E080_200821_200710_Ver_3_0_Area1">
+		<SimpleData name="Country">Sri_Lanka</SimpleData>
+		<SimpleData name="Continent">Southern_Asia</SimpleData>
+		<SimpleData name="ChangeArea">2.50</SimpleData>
+		<SimpleData name="Accuracy">2</SimpleData>
+		<SimpleData name="Polygon_id">N07E080_200821_200710_0000011A</SimpleData>
+		<SimpleData name="State">Ratnapura</SimpleData>
+		<SimpleData name="Town">Weligepola</SimpleData>
+		<SimpleData name="Latitude">N6°32′40″</SimpleData>
+		<SimpleData name="Longitude">E80°47′53″</SimpleData>
+		<SimpleData name="Algorithm">HV</SimpleData>
+		<SimpleData name="AlgoVer">Ver.3.0</SimpleData>
+		<SimpleData name="Threshold">Area1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.7977777777778,6.54533333333333 80.7991111111111,6.54533333333333 80.7991111111111,6.544 80.7986666666667,6.544 80.7986666666667,6.54444444444444 80.7982222222222,6.54444444444444 80.7982222222222,6.544 80.7973333333333,6.544 80.7973333333333,6.54488888888889 80.7977777777778,6.54488888888889 80.7977777777778,6.54533333333333</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
